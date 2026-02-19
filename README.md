@@ -1,16 +1,21 @@
-# React + Vite
+# Candy 🍬 — Multilingual Language-Agnostic Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart India Hackathon 2025 | Team Solution Seekers – PEC | Top 8,000 Grand Finalists out of 72,165 submissions
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Candy aka rajsahayak is a multilingual, language-agnostic AI chatbot built to help college students get instant answers to their queries — covering admissions, exams, fees, hostel, counselling, and more. The admin panel enables staff to manage FAQs, monitor analytics, and keep the system up to date with minimal effort.
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Chatbot
+https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/ChatBot-Interface.png
 
-## Expanding the ESLint configuration
+Analytics Dashboard
+https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Analytics-Dashboard.png
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+FAQ Generator
+https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/AdminPanel-FAQ_Generator.png
+
+Staff Management
+https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Staff-Management.png
