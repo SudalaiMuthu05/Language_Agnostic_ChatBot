@@ -8,14 +8,14 @@ Candy aka rajsahayak is a multilingual, language-agnostic AI chatbot built to he
 
 ## 📸 Screenshots
 
-Chatbot
+### Chatbot
 ![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/ChatBot-Interface.png)
 
-Analytics Dashboard
+### Analytics Dashboard
 ![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Analytics-Dashboard.png)
 
-FAQ Generator
+### FAQ Generator
 ![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/AdminPanel-FAQ_Generator.png)
 
-Staff Management
+### Staff Management
 ![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Staff-Management.png)
