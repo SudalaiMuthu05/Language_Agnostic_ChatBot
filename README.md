@@ -9,13 +9,13 @@ Candy aka rajsahayak is a multilingual, language-agnostic AI chatbot built to he
 ## 📸 Screenshots
 
 Chatbot
-https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/ChatBot-Interface.png
+![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/ChatBot-Interface.png)
 
 Analytics Dashboard
-https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Analytics-Dashboard.png
+![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Analytics-Dashboard.png)
 
 FAQ Generator
-https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/AdminPanel-FAQ_Generator.png
+![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/AdminPanel-FAQ_Generator.png)
 
 Staff Management
-https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Staff-Management.png
+![image_alt](https://github.com/SudalaiMuthu05/Language_Agnostic_ChatBot/blob/9a570347d8eea4e053332db414b2a08d18e7f333/Screenshots/Staff-Management.png)
